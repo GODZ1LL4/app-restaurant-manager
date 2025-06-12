@@ -1,0 +1,14 @@
+ECHO is on.
+# Node.js
+node_modules/
+.env
+
+# React
+frontend/build/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
